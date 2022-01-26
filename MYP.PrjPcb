@@ -125,6 +125,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EBDPLDYT
 
+[GeneratedDocument1]
+DocumentPath=
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for MYP\Design Rule Check - KPBT.758724.html
+DItemRevisionGUID=
+
 [Configuration1]
 Name=Sources
 ParameterCount=0
