@@ -125,11 +125,24 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=EBDPLDYT
 
-[GeneratedDocument1]
-DocumentPath=
+[Document6]
+DocumentPath=KPBT.758724.006 CБ.PCBDwf
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
 DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[GeneratedDocument2]
+[GeneratedDocument1]
 DocumentPath=Project Outputs for MYP\Design Rule Check - KPBT.758724.html
 DItemRevisionGUID=
 
