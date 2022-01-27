@@ -1,0 +1,6 @@
+DRC Rules Export File for PCB: D:\Development\VMP.0704\PCB_\MYP\KPBT.758724.006.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=9.84
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=3.94
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=9.84
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=9.84
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
